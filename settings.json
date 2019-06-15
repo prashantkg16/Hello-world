@@ -1,0 +1,6 @@
+{
+    "SITE_DOMAIN" : "http://dev.xyz.com",
+    "COOKIE_DOMAIN" : ".dev.xyz.com",
+    "QUOTES_DOMAIN" : "http://dev.xyz.com",
+    "QUOTES_PAGE" : "http://dev.xyz.com/motor/quote/2",
+}

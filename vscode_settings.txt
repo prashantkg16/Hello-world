@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "editor.formatOnSave": true,
+    // "python.formatting.provider": "autopep8",
+    "[python]": {
+        "editor.rulers": [
+            80,
+            100,
+            120
+        ],
+    },
+    "python.linting.pylintEnabled": true,
+    "html.format.wrapLineLength": 400,
+    "python.formatting.autopep8Args": [
+        "--max-line-length=120",
+    ],
+    "python.linting.pylintArgs": [
+        "--disable=R0912,R0901,R0914,R0915,W0223,W0221,W0232,W0212,W0703,C0111,R0201,R1702,R0903,C1001,C0302,C0103,C0301,E1101,E0401"
+    ],
+    "python.venvPath": "/home/prashant/Envs",
+    "python.linting.lintOnSave": true
+}
